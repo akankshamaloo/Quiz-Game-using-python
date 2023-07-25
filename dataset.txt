@@ -1,0 +1,8 @@
+What is the capital of France?;Paris,Madrid,London,Berlin;0
+Who painted the Mona Lisa?;Leonardo da Vinci,Pablo Picasso,Vincent van Gogh,Michelangelo;0
+What is the largest planet in our solar system?;Jupiter,Saturn,Neptune,Mercury;0
+Which country is famous for its tulips?;Netherlands,Italy,France,Japan;0
+What is the chemical symbol for gold?;Au,Ag,Cu,Fe;0
+Who wrote the play "Romeo and Juliet"?;William Shakespeare,Oscar Wilde,George Orwell,Jane Austen;0
+What is the tallest mountain in the world?;Mount Everest,K2,Kangchenjunga,Makalu;0
+What is the largest ocean on Earth?;Pacific Ocean,Atlantic Ocean,Indian Ocean,Arctic Ocean;0
